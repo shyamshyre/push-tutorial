@@ -22,7 +22,7 @@ angular.module('starter', [
     // The public API key all services will use for this app
     api_key: '717cd0d3db01c932bca67459d6a6ed4d296825dbfe373f37',
     // Set the app to use development pushes
-    gcm_id:'tough-shelter-95418'
+    gcm_id:'310768861584'
       
       
   });
